@@ -2,7 +2,6 @@
 #include <stdio.h>
 #define ROWS 3
 #define COLS 4
-
 void sum_rows(int ar[][COLS], int rows);
 void sum_cols(int[][COLS], int);
 
