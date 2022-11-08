@@ -2,6 +2,7 @@
 #include <stdio.h>
 int data[2] = {100, 200};
 int moredata[2] = {300, 400};
+
 int main(void)
 {
     int *p1, *p2, *p3;
