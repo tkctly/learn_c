@@ -1,6 +1,7 @@
 /* no_data.c -- 为初始化数组 */
 #include <stdio.h>
 #define SIZE 4
+
 int main(void)
 {
     int no_data[SIZE];
