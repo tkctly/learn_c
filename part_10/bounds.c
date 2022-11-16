@@ -1,6 +1,7 @@
 /* bounds.c -- 数组下标越界 */
 #include <stdio.h>
 #define SIZE 4
+
 int main(void)
 {
     int value1 = 44;
