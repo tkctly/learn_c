@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 void display(char cr, int lines, int width);
+
 int main(void)
 {
     int ch;
