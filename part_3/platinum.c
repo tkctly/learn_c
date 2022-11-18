@@ -1,5 +1,6 @@
 /* platinum.c -- your weight in platinum */
 #include <stdio.h>
+
 int main(void)
 {
     float weight;
