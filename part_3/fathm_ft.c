@@ -1,5 +1,6 @@
 // fathm_ft.c -- 把2英寻转换成英尺
 #include <stdio.h>
+
 int main(void)
 {
     int feet, fathoms;
