@@ -1,5 +1,6 @@
 /* power.c -- 计算数的整数幂 */
 double power(double n, int p);
+
 int main(void)
 {
     double x, xpow;
