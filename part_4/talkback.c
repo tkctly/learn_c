@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <string.h>  // 提供strlen()函数原型
 #define DENSITY 62.4 //人体密度（单位：磅/立方英尺）
+
 int main()
 {
     float weight, volume;
