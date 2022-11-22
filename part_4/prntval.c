@@ -1,5 +1,6 @@
 /* prntval.c -- printf()的返回值 */
 #include <stdio.h>
+
 int main(void)
 {
     int bph2o = 212;
