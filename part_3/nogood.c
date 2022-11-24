@@ -1,5 +1,6 @@
 /* nogood.c -- 有错误的程序 */
 #include <stdio.h>
+
 int main(void)
 {
     int n, n2, n3;
