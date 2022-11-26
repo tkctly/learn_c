@@ -1,5 +1,6 @@
 /* typesize.c -- 打印类型大小 */
 #include <stdio.h>
+
 int main(void)
 {
     printf("Type int has a size of %zd bytes.\n", sizeof(int));
