@@ -1,5 +1,6 @@
 /* escape.c -- 使用转义序列 */
 #include <stdio.h>
+
 int main(void)
 {
     float salary;
