@@ -1,6 +1,7 @@
 /* altnames.c -- 可移植整数类名 */
 #include <stdio.h>
 #include <inttypes.h> // 支持可移植类型
+
 int main(void)
 {
     int32_t me32;
